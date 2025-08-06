@@ -73,4 +73,10 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: Setting up a custom domain
+
+<img width="1329" height="854" alt="Screenshot 2025-08-06 224948" src="https://github.com/user-attachments/assets/0aa78bc1-207e-472b-89aa-16a234fbc6c2" />
+<img width="1324" height="847" alt="Screenshot 2025-08-06 225003" src="https://github.com/user-attachments/assets/10b0a770-f2a3-42ef-86db-f914217c4a3e" />
+<img width="1326" height="850" alt="Screenshot 2025-08-06 225018" src="https://github.com/user-attachments/assets/7d339dcc-fed7-4191-8157-efe5022363df" />
+<img width="1328" height="812" alt="Screenshot 2025-08-06 225032" src="https://github.com/user-attachments/assets/eab1f8a9-b0dc-4067-8771-89dc5e6e2bb9" />
+<img width="1327" height="843" alt="Screenshot 2025-08-06 225050" src="https://github.com/user-attachments/assets/64fe35d3-ea0d-4f80-be69-ef78e4cf6d46" />
+
