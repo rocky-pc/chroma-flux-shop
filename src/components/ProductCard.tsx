@@ -94,15 +94,12 @@ const ProductCard = ({
             {/* Price and Actions */}
             <div className="flex items-center justify-between">
               <div className="space-y-1">
-                <p className="text-2xl font-bold bg-gradient-instagram bg-clip-text text-gray-200">
+                <p className="text-2xl font-bold bg-gradient-instagram bg-clip-text text-neutral-300">
                   ${product.price.toLocaleString()}
                 </p>
               </div>
 
-              <Button onClick={handleAddToCart} disabled={!product.inStock} className="bg-gradient-instagram hover:shadow-lg hover:shadow-primary/25 transition-all duration-300" size="sm">
-                <ShoppingCart className="w-4 h-4 mr-2" />
-                Add to Cart
-              </Button>
+              
             </div>
           </div>
         </div>
